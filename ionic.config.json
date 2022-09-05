@@ -1,0 +1,8 @@
+{
+  "name": "Sumas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c243b9d2"
+}
